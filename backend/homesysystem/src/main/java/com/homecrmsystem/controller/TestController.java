@@ -1,4 +1,4 @@
-package com.homecrmsystem.homesysystem.controller;
+package com.homecrmsystem.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
